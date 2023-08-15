@@ -1,5 +1,3 @@
-package lab12;
-
 public class PacmanTester {
 
     public static void main(String[] arg)
